@@ -1,4 +1,4 @@
-# Nepali-Character-Recognizatio
+# Nepali-Character-Recognization
 CNN model to recognize Nepali characters
 Built Using DHCD_Dataset from ** datasets and CNN model to recognize Handwritten devnagari characters.
 The data set contains 46 characters(46 class) with each having 1700 train and 300test data.
